@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    font-family: "comic sans ms";
+    color: darkblue;
+    font-size: 60px
+
+}
+
+h4 {
+    text-align: right;
+    font-family: arial;
+    font-style: italic;
+}
+
+p {
+   text-align: justify;
+}

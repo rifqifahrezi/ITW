@@ -1,0 +1,39 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    text-align: center;
+    font-family: "comic sans ms";
+    color: darkblue;
+}
+
+h4 {
+    text-align: right;
+    font-family: arial;
+    font-style: italic;
+}
+
+h3 {
+    font-variant: "small-caps";
+}
+
+P {
+   text-indent: 50px;
+   font-family: verdana;
+   text-align: center; 
+}
+
+.p1 {
+     color: salmon;
+}
+
+#p2 {
+     line-height: 100px;
+     text-align: center;
+     color: darked;
+}
+a:link {color:blue; text-decoration:none;}
+a:visited {color:blue; text-decoration:none;}
+a:hover {color:red; text-decoration:underline;}
+a:active {color:red; text-decoration:none;}
